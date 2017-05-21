@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6160" started-at="2017-05-21T21:02:09Z" finished-at="2017-05-21T21:02:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6160" started-at="2017-05-21T21:02:09Z" finished-at="2017-05-21T21:02:15Z">
+      <class name="com.RestAssured.RestAssuredtest">
+        <test-method status="PASS" signature="fifthTest()[pri:0, instance:com.RestAssured.RestAssuredtest@6eebc39e]" name="fifthTest" duration-ms="4600" started-at="2017-05-21T16:02:09Z" finished-at="2017-05-21T16:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthTest -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.RestAssured.RestAssuredtest@6eebc39e]" name="firstTest" duration-ms="756" started-at="2017-05-21T16:02:14Z" finished-at="2017-05-21T16:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="fourthTest()[pri:0, instance:com.RestAssured.RestAssuredtest@6eebc39e]" name="fourthTest" duration-ms="147" started-at="2017-05-21T16:02:14Z" finished-at="2017-05-21T16:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthTest -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:com.RestAssured.RestAssuredtest@6eebc39e]" name="secondTest" duration-ms="139" started-at="2017-05-21T16:02:15Z" finished-at="2017-05-21T16:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="sixthTest()[pri:0, instance:com.RestAssured.RestAssuredtest@6eebc39e]" name="sixthTest" duration-ms="286" started-at="2017-05-21T16:02:15Z" finished-at="2017-05-21T16:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sixthTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:com.RestAssured.RestAssuredtest@6eebc39e]" name="thirdTest" duration-ms="201" started-at="2017-05-21T16:02:15Z" finished-at="2017-05-21T16:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- com.RestAssured.RestAssuredtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
