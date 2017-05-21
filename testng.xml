@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.RestAssured.RestAssuredtest"/>
+      <class name="com.TestAssured.RestAssuredtest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
