@@ -1,0 +1,3 @@
+task sometask {
+    println "hello custom task!"
+}
